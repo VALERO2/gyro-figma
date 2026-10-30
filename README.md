@@ -8,7 +8,7 @@
 - Гироскутер.png — экспорт макета в формате PNG.
 
 ## Ссылка на макет Figma
-https://www.figma.com/design/mt4PsQ0VgLIIK68o1T5o0f/Untitled?node-id=0-1
+https://www.figma.com/design/h3NMTEuvj6ZUJIEQyZ041e/
 
 ## Инструменты
 - Figma
